@@ -1,0 +1,4 @@
+gojson-web
+==================
+
+An experimental in-browser port of [gojson](https://github.com/ChimeraCoder/gojson) using [gopherjs](https://github.com/gopherjs/gopherjs).
